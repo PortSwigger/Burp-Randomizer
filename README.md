@@ -15,7 +15,8 @@ handling rule.
 Send the request to the Repeater/Intruder and put #RANDOM# where
 randomization is required. Then send this request to the Scanner,
 Intruder or some different tool. The extension now replaces each
-occurence of #RANDOM# with a random token and #RANDOMNUM# with random number.
+occurence of #RANDOM# with a random token, #RANDOMNUM# with a random number
+and deadbeef-1337-1337-1337-deadbeeeeeef with an UUIDv4 string.
 
 ## Configuration
 
